@@ -1,0 +1,15 @@
+Para configurar el modulo contable, el sistema cuenta con un asistente de configuración que guia paso a paso a través de los renglones que necesitan ser configurados para poder realizar todo el flujo de contabilidad de manera correcta. Para iniciar el asistente basta con clickear en la barra de progreso en la esquina superior derecha. Los pasos a configurar son los siguiente:
+
+  - Completar las configuraciones de la compañia.
+  - Registrar las cuentas bancarias. 
+  - Seleccionar un esquema de cuentas contables o plan contable.
+  - Confirmar los tipos y los montos de impuestos por defecto.
+  - Configurar monedas extranjeras si es necesario.
+  - Importar Clientes.
+  - Importar proveedores.
+  - Importar productos.
+  - Importar transacciones pendientes.
+  - Importar balances inicales.
+  - Definir los usuarios que gestionaran la contabilidad.
+
+Luego de finalizada la configuración, basta con un click en "marcar como hecho" en el inferior de la pantalla.

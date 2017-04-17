@@ -1,0 +1,139 @@
+====== General ======
+
+===== Conceptos Principales =====
+
+[[Contabilidad:Contabilidad en Odoo]]
+
+[[Contabilidad:La Contabilidad detrás de Odoo]]
+
+[[Contabilidad:Terminología Contable]]
+
+===== Introducción =====
+[[Contabilidad:Configuración inicial del modulo Contable]]
+
+===== Procesos =====
+
+[[Contabilidad:Facturas de venta]]
+
+[[Contabilidad:Facturas de compra]]
+
+====== Cuentas por Cobrar =====
+
+===== Facturas de clientes =====
+
+[[Contabilidad:Proceso de Facturación]]
+
+[[Contabilidad:Como configurar descuentos en efectivo]]
+
+[[Contabilidad:Como establecer términos de pago]]
+
+[[Contabilidad:Contabilidad en Odoo]]
+
+[[Contabilidad:Como definir los plazos en una factura de cliente]]
+
+[[Contabilidad:Como automatizar ingresos diferido]]
+
+[[Contabilidad:Como editar o reembolsar una factura]]
+
+[[Contabilidad:Como modificar una factura validada]]
+
+===== Pagos de clientes =====
+
+[[Contabilidad:Diferentes formar de registrar un pago]]
+
+[[Contabilidad:Como aceptar pagos de tarjeta de crédito para las facturas]]
+
+[[Contabilidad:Como aceptar pagos con Paypal]]
+
+[[Contabilidad:Como registrar pagos en cheques]]
+
+[[Contabilidad:Como organizar los seguimientos de pagos]]
+
+[[Contabilidad:Automatizar seguimiento de clientes con planes]]
+
+
+
+====== Cuentas por pagar ======
+
+===== Facturas de proveedor =====
+
+[[Contabilidad:Como manejar las facturas de proveedor]]
+
+[[Contabilidad:Cuando se usa facturas de proveedor o recibos de compra]]
+
+===== Pago de Facturas de proveedor =====
+
+[[Contabilidad:Pagar con cheques]]
+
+[[contabilidad:Como Pagar varias facturas al mismo tiempo]]
+
+======= Banco y Efectivo ======
+
+===== Configuración =====
+
+[[Contabilidad:Como crear una nueva cuenta de banco]]
+
+[[Contabilidad:Como manejar el registro el flujo de efectivo]]
+
+[[Contabilidad:Como manejar un banco en moneda extranjera]]
+
+===== Interacción Bancaria =====
+
+[[Contabilidad:Sincronizar odoo con un banco]]
+
+[[Contabilidad:Registrar declaraciones bancarias manualmente]]
+
+===== Misceláneos =====
+
+[[Contabilidad:Manejar depósitos de cheques en lote]]
+
+[[Contabilidad:Transferencias de un banco a otro]]
+
+===== Reconciliación bancaria =====
+
+[[Contabilidad:Casos de uso en en los procesos de Reconciliación bancaria]]
+
+[[Contabilidad:Configurar el modelo de entradas]]
+
+====== Otros ======
+
+===== Configuración =====
+
+[[Contabilidad:Tipo de cuentas y configuración]]
+
+===== Contabilidad Analítica =====
+[[Contabilidad:Casos de uso de la contabilidad analítica]]
+
+[[Contabilidad:Como como rastrear costos de recursos humanos con hojas de tiempo]]
+
+[[Contabilidad:Como rastrear costos de compras, gastos y sub-contrataciones]]
+
+===== Impuestos =====
+
+[[Contabilidad:Aplicar un impuesto especifico por país, estado o ciudad]]
+
+[[Contabilidad:Definir nuevos impuestos]]
+
+[[Contabilidad:Impuestos de retención]]
+
+===== Inversiones =====
+
+[[Contabilidad:Manejar los Activos Fijos]]
+
+[[Contabilidad:Finalizar un año fiscal]]
+
+[[Contabilidad:Manejo de Presupuesto Financiero]]
+
+===== Divisas =====
+
+[[Contabilidad:Funcionamiento multi-moneda]]
+
+[[Contabilidad:Manejo de facturas y pagos en múltiples monedas]]
+
+[[Contabilidad:Guardar tasas de cambio en pagos]]
+
+===== Reportes =====
+
+[[Contabilidad:Reportes Principales]]
+
+[[Contabilidad:Crear reportes personalizados con fórmulas propias]]

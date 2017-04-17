@@ -1,0 +1,49 @@
+Odoo soporta múltiples flujos de tabajo para pagos y facturación, de modo que se puede escoger la opción que mejor se adate a las necesidades de la organización. Asi se quiera aceptar pagos únicos por cada factura, o procesar pagos que abarquen varias facturas y realizar descuentos por pagos anticipados, estos flujos se pueden realizar de forma eficiente y precisa.
+
+====== Desde Facturas borrador hasta ganancias y perdidas ======
+
+En un escenario típico de orden de cobro se tiene que luego de que el proudcto se envia, se genera una factura, se recibe un pago, se deposita ese pago en un banco, la factura del cliente es marcada como cerrada, se hace un siguimiento si el cliente esta retrado en el pago y finalmente se presenta el reporte de balance de pérdidas y ganancias y muestra la disminución de los activos en la hoja de balance contable.
+
+La facturación en la mayoria de los paises ocurre cuando una obligación contractual es establecida, por lo tanto solo se podra genera runa factura a un cliente cuando loos terminos del contrato han sido satisfechos al igual que un proveedor solo podra emitirnos una factura al momento que estos términos hayan sido cumplidos, para el resto de las etapas odoo permite la creación de las llamadas facturas borrador.
+
+====== Creación de Facturas ======
+
+Las facturas borrador pueden ser generadas manualmente desde otros documentos como órdenes de compra u órdenes de venta; también pueden ser creadas directamente si se desea.
+
+La factura debe proveer al cliente con la información necesaria para pagar bienes y servicios que han sido pedidos y entregados, ademas debe incluir información necesaria para pagar la factura en un tiempo y un modo específico.
+
+====== Facturas Borrador ======
+
+El sistema al generar facturas inicialmente le asigna el estado de Borrador; mientras estas facturas permanezcan en esta estado no estarán validadas y por lo tanto no tendrán ningún impacto contable en el sistema, no hay nada que detenga a los usuarios de crear sus propias facturas borrador.
+
+====== Facturas Abiertas o Pro-Forma ======
+
+Una factura usualmente incluye la cantidad y el precio de bienes y servicios, la fecha, las identidades involucradas, un numero único de factura e información de impuestos.
+
+"validar" la factura cuando se considere aprobada hace que la factura pase del estado borrador al estado Abierta, cuando sucede esto odoo le asigna a la factura un número único a partir de una secuencia definida y modificable. los apuntes contables correspondiente con la factura son generados automáticamente cuando se valida la factura, se pueden ver los detalles del apunte en el diario contable en la pestaña de mas información.
+
+====== Enviar la factura al cliente ======
+
+Luego de Validar la factura de cliente, se puede enviar directamente al cliente via la funcionalidad "enviar por email".
+
+====== Pago ======
+ 
+En odoo una factura es considerada pagada cuando el apunte contable asociado ha sido reconciliado con un entrada de paga, si no ocurre la reconciliación, la factura permanece en estado Abierta hasta que haya sido introducido el pago.
+
+====== Recibir un pago parcial a través del estado bancario ======
+
+Se puede introducir el estado bancario manualmente en odoo, o se puede importar a partir de un archivo csv u otros formatos predefinidos según la localización contable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

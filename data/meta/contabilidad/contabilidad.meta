@@ -1,0 +1,37 @@
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1467348336;s:8:"modified";i:1468340841;}s:7:"creator";s:12:"Samuel Pavon";s:4:"user";s:11:"festovalros";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:11:"festovalros";s:12:"Samuel Pavon";}s:5:"title";s:7:"General";s:11:"description";a:2:{s:15:"tableofcontents";a:22:{i:0;a:4:{s:3:"hid";s:7:"general";s:5:"title";s:7:"General";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:21:"conceptos_principales";s:5:"title";s:21:"Conceptos Principales";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:12:"introduccion";s:5:"title";s:13:"Introducción";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:8:"procesos";s:5:"title";s:8:"Procesos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:4;a:4:{s:3:"hid";s:18:"cuentas_por_cobrar";s:5:"title";s:18:"Cuentas por Cobrar";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:5;a:4:{s:3:"hid";s:20:"facturas_de_clientes";s:5:"title";s:20:"Facturas de clientes";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:6;a:4:{s:3:"hid";s:17:"pagos_de_clientes";s:5:"title";s:17:"Pagos de clientes";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:17:"cuentas_por_pagar";s:5:"title";s:17:"Cuentas por pagar";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:8;a:4:{s:3:"hid";s:21:"facturas_de_proveedor";s:5:"title";s:21:"Facturas de proveedor";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:9;a:4:{s:3:"hid";s:29:"pago_de_facturas_de_proveedor";s:5:"title";s:29:"Pago de Facturas de proveedor";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:10;a:4:{s:3:"hid";s:16:"banco_y_efectivo";s:5:"title";s:16:"Banco y Efectivo";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:11;a:4:{s:3:"hid";s:13:"configuracion";s:5:"title";s:14:"Configuración";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:12;a:4:{s:3:"hid";s:20:"interaccion_bancaria";s:5:"title";s:21:"Interacción Bancaria";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:13;a:4:{s:3:"hid";s:11:"miscelaneos";s:5:"title";s:12:"Misceláneos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:14;a:4:{s:3:"hid";s:23:"reconciliacion_bancaria";s:5:"title";s:24:"Reconciliación bancaria";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:15;a:4:{s:3:"hid";s:5:"otros";s:5:"title";s:5:"Otros";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:16;a:4:{s:3:"hid";s:14:"configuracion1";s:5:"title";s:14:"Configuración";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:17;a:4:{s:3:"hid";s:22:"contabilidad_analitica";s:5:"title";s:23:"Contabilidad Analítica";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:18;a:4:{s:3:"hid";s:9:"impuestos";s:5:"title";s:9:"Impuestos";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:19;a:4:{s:3:"hid";s:11:"inversiones";s:5:"title";s:11:"Inversiones";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:20;a:4:{s:3:"hid";s:7:"divisas";s:5:"title";s:7:"Divisas";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:21;a:4:{s:3:"hid";s:8:"reportes";s:5:"title";s:8:"Reportes";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:509:"General
+
+Conceptos Principales
+
+Contabilidad en Odoo
+
+La Contabilidad detrás de Odoo
+
+Terminología Contable
+
+Introducción
+
+Configuración inicial del modulo Contable
+
+Procesos
+
+Facturas de venta
+
+Facturas de compra
+
+Cuentas por Cobrar
+
+Facturas de clientes
+
+Proceso de Facturación
+
+Como configurar descuentos en efectivo
+
+Como establecer términos de pago
+
+Contabilidad en Odoo
+
+Como definir los plazos en una factura de cliente
+
+Como automatizar ingresos diferido
+
+Como editar o reembolsar una factura…";}s:8:"relation";a:2:{s:10:"references";a:47:{s:33:"contabilidad:contabilidad_en_odoo";b:0;s:43:"contabilidad:la_contabilidad_detras_de_odoo";b:0;s:34:"contabilidad:terminologia_contable";b:0;s:54:"contabilidad:configuracion_inicial_del_modulo_contable";b:1;s:30:"contabilidad:facturas_de_venta";b:1;s:31:"contabilidad:facturas_de_compra";b:0;s:35:"contabilidad:proceso_de_facturacion";b:0;s:51:"contabilidad:como_configurar_descuentos_en_efectivo";b:0;s:45:"contabilidad:como_establecer_terminos_de_pago";b:0;s:62:"contabilidad:como_definir_los_plazos_en_una_factura_de_cliente";b:0;s:47:"contabilidad:como_automatizar_ingresos_diferido";b:0;s:49:"contabilidad:como_editar_o_reembolsar_una_factura";b:0;s:48:"contabilidad:como_modificar_una_factura_validada";b:0;s:51:"contabilidad:diferentes_formar_de_registrar_un_pago";b:0;s:71:"contabilidad:como_aceptar_pagos_de_tarjeta_de_credito_para_las_facturas";b:0;s:42:"contabilidad:como_aceptar_pagos_con_paypal";b:0;s:44:"contabilidad:como_registrar_pagos_en_cheques";b:0;s:53:"contabilidad:como_organizar_los_seguimientos_de_pagos";b:0;s:59:"contabilidad:automatizar_seguimiento_de_clientes_con_planes";b:0;s:51:"contabilidad:como_manejar_las_facturas_de_proveedor";b:0;s:68:"contabilidad:cuando_se_usa_facturas_de_proveedor_o_recibos_de_compra";b:0;s:30:"contabilidad:pagar_con_cheques";b:0;s:55:"contabilidad:como_pagar_varias_facturas_al_mismo_tiempo";b:0;s:49:"contabilidad:como_crear_una_nueva_cuenta_de_banco";b:0;s:58:"contabilidad:como_manejar_el_registro_el_flujo_de_efectivo";b:0;s:55:"contabilidad:como_manejar_un_banco_en_moneda_extranjera";b:0;s:42:"contabilidad:sincronizar_odoo_con_un_banco";b:0;s:58:"contabilidad:registrar_declaraciones_bancarias_manualmente";b:0;s:49:"contabilidad:manejar_depositos_de_cheques_en_lote";b:0;s:46:"contabilidad:transferencias_de_un_banco_a_otro";b:0;s:71:"contabilidad:casos_de_uso_en_en_los_procesos_de_reconciliacion_bancaria";b:0;s:45:"contabilidad:configurar_el_modelo_de_entradas";b:0;s:44:"contabilidad:tipo_de_cuentas_y_configuracion";b:0;s:54:"contabilidad:casos_de_uso_de_la_contabilidad_analitica";b:0;s:78:"contabilidad:como_como_rastrear_costos_de_recursos_humanos_con_hojas_de_tiempo";b:0;s:72:"contabilidad:como_rastrear_costos_de_compras_gastos_y_sub-contrataciones";b:0;s:68:"contabilidad:aplicar_un_impuesto_especifico_por_pais_estado_o_ciudad";b:0;s:37:"contabilidad:definir_nuevos_impuestos";b:0;s:35:"contabilidad:impuestos_de_retencion";b:0;s:38:"contabilidad:manejar_los_activos_fijos";b:0;s:36:"contabilidad:finalizar_un_ano_fiscal";b:0;s:45:"contabilidad:manejo_de_presupuesto_financiero";b:0;s:40:"contabilidad:funcionamiento_multi-moneda";b:0;s:60:"contabilidad:manejo_de_facturas_y_pagos_en_multiples_monedas";b:0;s:45:"contabilidad:guardar_tasas_de_cambio_en_pagos";b:0;s:33:"contabilidad:reportes_principales";b:0;s:63:"contabilidad:crear_reportes_personalizados_con_formulas_propias";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1467348336;s:8:"modified";i:1468340841;}s:7:"creator";s:12:"Samuel Pavon";s:4:"user";s:11:"festovalros";s:11:"last_change";b:0;s:11:"contributor";a:1:{s:11:"festovalros";s:12:"Samuel Pavon";}}}
